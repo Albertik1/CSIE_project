@@ -1,0 +1,15 @@
+{
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "mongod": "^2.0.0",
+    "node": "^15.10.0"
+  }
+}
+
